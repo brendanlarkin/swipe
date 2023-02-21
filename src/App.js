@@ -9,6 +9,7 @@ import ReactDOM from 'react-dom';
 
 function App() {
   return (
+    
     <Router>
       <Routes>
         <Route path="/" element={<LandingPage />} />
